@@ -13,9 +13,9 @@ Using HTML components, data was gathered, further analyzed and visualized, to ge
 To carry out the aforementioned tasks, pandas and matplotlib were also utilized. <br/>
 This project uses two websites to gather data: <br/>
 
-![mars_news_site](Readme Resources/Screenshot 2023-11-07 at 12.49.37 AM.png) <br/>
+![mars_news_site](readme_resources/news.png) <br/>
 [Mars News Website](https://static.bc-edx.com/data/web/mars_news/index.html)<br/> <br/>
-![mars_data_table](Readme Resources/Screenshot 2023-11-07 at 12.48.25 AM.png)
+![mars_data_table](readme_resources/temp_table.png) <br/>
 [Mars Temperature Data](https://static.bc-edx.com/data/web/mars_facts/temperature.html)<br/>
 ### Mars News Articles
 In the Mars News Website, the article titles and preview text were extracted from every article. <br/>
