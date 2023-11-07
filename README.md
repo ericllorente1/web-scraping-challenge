@@ -10,7 +10,7 @@ Columbia University Bootcamp Week 11 Challenge <br/>
 ## About 
 In this project, we explore the power of Python by Web Scraping Websites and gathering data using splinter's browser and bs4's BeautifulSoup. <br/>
 Using HTML components, data was gathered, further analyzed and visualized, to get a better grasp of the information.<br/>
-To carry the aforementioned tasks, pandas and matplotlib were also utilized. <br/>
+To carry out the aforementioned tasks, pandas and matplotlib were also utilized. <br/>
 This project uses two websites to gather data: <br/>
 
 ![mars_news_site](Readme Resources/Screenshot 2023-11-07 at 12.49.37 AM.png) <br/>
